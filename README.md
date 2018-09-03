@@ -1,6 +1,6 @@
 # measure
 Various distance and similarity measures in python    
-Updated version will include 'Comprehensive Survey on Distance/Similarity Measures between Probability Density Functions' by Sung-Hyuk Cha    
+Updated version will include implementation of metrics in 'Comprehensive Survey on Distance/Similarity Measures between Probability Density Functions' by Sung-Hyuk Cha    
 
 ```python
 import numpy as np
